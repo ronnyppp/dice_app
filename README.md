@@ -1,16 +1,20 @@
-# new_project
+# dice_app
 
-A new Flutter project.
+A simple app built with flutter that rolls a dice when a button is pressed.
 
-## Getting Started
+## 🚀 Features
+- Tap to roll one or two dice
+- Random number generation
+- Smooth animations
 
-This project is a starting point for a Flutter application.
+## 🛠 Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/yourusername/dice-app.git
+cd dice-app
+flutter pub get
+flutter run
