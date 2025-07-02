@@ -4,7 +4,7 @@ A simple app built with flutter that rolls a dice when a button is pressed.
 
 > 🛠 This project was developed as part of the **[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/flutter-dart-the-complete-guide/)** Udemy course by Maximilian Schwarzmüller.
 > 
-<img src="https://github.com/user-attachments/assets/e911233d-47ff-49e1-bfa1-509b5bef7cca" width="300">
+<img src="https://github.com/user-attachments/assets/e911233d-47ff-49e1-bfa1-509b5bef7cca" width="275">
 
 ## 🚀 Features
 - Tap to roll one or two dice
