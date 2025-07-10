@@ -18,7 +18,7 @@ A simple app built with flutter that rolls a dice when a button is pressed.
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/dice-app.git
-cd dice-app
+git clone https://github.com/ronnyppp/dice_app.git
+cd dice_app
 flutter pub get
 flutter run
